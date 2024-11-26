@@ -1,4 +1,26 @@
 @charset "utf-8";
+/* CSS Document */
+
+
+#one {
+ background-color: #F78486;
+ width: 300px;
+ height: 60px;
+ }
+ #two {
+ background-color: #FFF616;
+ width: 300px;
+ height: 90px;
+ }
+ #three {
+ color: #F8060A;
+ border: thick solid #48EF41;
+ width: 500px;
+ height: 150px;
+ }
+body h1{
+	color:#A2009C
+}
 header {
     height: 120px;
     width: 800px;
